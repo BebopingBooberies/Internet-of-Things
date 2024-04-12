@@ -20,8 +20,8 @@ float spd;       //Variable  to store the speed
 float sats;      //Variable to store no. of satellites response
 String bearing;  //Variable to store orientation or direction of GPS
 
-char auth[] = "vAC4sZjFIvM2O4-GAaAZNM0e7QLzfY4I";              //Your Project authentication key
-char ssid[] = "ASK4 Wireless";                                       // Name of your network (HotSpot or Router name)
+char auth[] = "";              //Your Project authentication key
+char ssid[] = "";                                       // Name of your network (HotSpot or Router name)
 char pass[] = "";                                      // Corresponding Password
 
 //unsigned int move_index;         // moving index, to be used later
